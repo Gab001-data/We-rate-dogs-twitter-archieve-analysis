@@ -24,7 +24,7 @@ Our task in this analysis covers;
 
 5. Analyzing, and visualizing data
 
-Check the [Jupyter Notebook]() for detailed workthrough for each stage of the analytical process.
+Check the [Jupyter Notebook](https://github.com/Gab001-data/We-rate-dogs-twitter-archieve-analysis/blob/master/wrangle_act.ipynb) for detailed workthrough for each stage of the analytical process.
 
 ## Mining Tweet Data
 In this analysis we scrap additional tweet data for archived WerateDogs tweet IDs using Tweepy api client. use the below code to mine tweet data.
@@ -118,7 +118,7 @@ From the analysis and visualization of the wrangled @WeRateDogs twitter archive 
 - Due to the inconsistence tweet text format from which dog names were extracted, a few of records in the twitter archive had incorrect dog name and were dropped from our dataset since they were insignificant.
 
 ## Relevant Links
-[Jupyter Notebook]()
-[Linkedln](https://www.linkedin.com/in/gabriel-ogih-609a091a1/)
-[Twitter](https://twitter.com/dev_gabby)
-[Medium Article]()
+- [Jupyter Notebook](https://github.com/Gab001-data/We-rate-dogs-twitter-archieve-analysis/blob/master/wrangle_act.ipynb)
+- [Linkedln](https://www.linkedin.com/in/gabriel-ogih-609a091a1/)
+- [Twitter](https://twitter.com/dev_gabby)
+- [Medium Article]()
